@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured) values ("Impossible Burger", false);
